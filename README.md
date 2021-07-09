@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, R & Matlab.
 - 🌱 I’m currently learning Physics at University.
 - 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me at jackcornwall91@gmail.com
+- 📫 You can reach me at hello@jackcornwall.co.uk
 
 <!---
 JackDCornwall/JackDCornwall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
